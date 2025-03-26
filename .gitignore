@@ -1,0 +1,6 @@
+env/
+.vscode/
+.idea/
+.env
+advanced-rag-techniques/__pycache__
+chroma_persistent_storage

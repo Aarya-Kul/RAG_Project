@@ -1,0 +1,9 @@
+pypdf
+python-dotenv
+chromadb
+google-generativeai
+sentence-transformers
+langchain
+umap-learn
+matplotlib
+pandas
