@@ -4,6 +4,8 @@ This project explores how different Retrieval-Augmented Generation (RAG) pipelin
 
 We evaluate and compare several RAG variations for tasks like entity extraction and question answering over scientific texts.
 
+Here is the link to the research paper: [Scientific Literature Analysis with Retrieval-Augmented Generation](https://github.com/Aarya-Kul/RAG_Project/blob/master/Enhancing%20Scientific%20Literature%20Analysis%20with%20a%20RAG%20System.pdf) and [Presentation](https://github.com/Aarya-Kul/RAG_Project/blob/master/Final_Presentation.pptx) showing our results. 
+
 ---
 
 ## 🧠 Implemented RAG Approaches
